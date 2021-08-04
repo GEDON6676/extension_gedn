@@ -1,2 +1,5 @@
 # extension_gedn
-extension for haxe
+Extension for Haxe
+
+## It's comfortably for creating games because not need creating new files
+- Yes
